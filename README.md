@@ -59,8 +59,10 @@ source("complete_autonomy_analysis.R")
 
 ### Generated Outputs (Examples)
 - `Figure_1A_Autonomy_Distribution.png` - Autonomy paradox visualization
+- `Figure_1B_Learning_by_Autonomy.png` - Autonomy paradox visualization
 - `Figure_2_Support_Correlation_Forest.png` - Support vs autonomy correlations
 - `Figure_3_Business_Impact.png` - Alumni workplace contributions
+- `Figure_4_Trisphere_Validation.png` - Validation of theoretical framework
 - `Table_1_Sample_Characteristics.csv` - Sample demographics
 - `Table_2_Descriptive_Statistics.csv` - Variable summaries
 - `Table_3_Correlation_Matrix.csv` - Correlation results
@@ -85,6 +87,7 @@ compared to autonomy alone (r=[X])"
 - **Figure 1**: The Autonomy Paradox (distribution + learning outcomes)
 - **Figure 2**: Support Supremacy (correlation forest plot)
 - **Figure 3**: Business Impact Analysis (alumni contributions)
+- **Figure 4**: Trisphere Validation (validating the theoretical framework)
 
 ### Statistical Tables
 - **Table 1**: Sample characteristics by institution and status
